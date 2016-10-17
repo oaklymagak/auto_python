@@ -1,0 +1,332 @@
+1476414401654	geckodriver	INFO	Listening on 127.0.0.1:59185
+1476667221190	geckodriver	INFO	Listening on 127.0.0.1:63933
+1476667341376	geckodriver	INFO	Listening on 127.0.0.1:64007
+1476667435849	geckodriver	INFO	Listening on 127.0.0.1:64039
+1476667437852	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.lNkfAiBuAWIL
+1476667437853	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476667437858	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64046
+1476667438865	Marionette	INFO	Listening on port 64046
+1476667440873	Marionette	INFO	startBrowser 122f8d95-4624-479c-ada6-a198f5e69cd9
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: , line 0: StaleElementReferenceError: The element reference is stale. Either the element is no longer attached to the DOM or the page has been refreshed.
+[Child 968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+rionette on localhost:64119
+1476667541032	Marionette	INFO	Listening on port 64119
+1476667543144	Marionette	INFO	startBrowser 653e7a1b-2472-49d4-8847-676e60c8392d
+[Child 5516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: , line 0: StaleElementReferenceError: The element reference is stale. Either the element is no longer attached to the DOM or the page has been refreshed.
+[Child 4116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+.mtxjdtlS6COE
+1476667617819	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476667617825	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64196
+1476667618796	Marionette	INFO	Listening on port 64196
+1476667620522	Marionette	INFO	startBrowser d01be418-0063-47f6-bdb1-f4d0eca87d50
+[Child 6616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1476667682018	geckodriver::marionette	ERROR	Failed to kill browser process
+1476667701814	geckodriver	INFO	Listening on 127.0.0.1:64254
+1476667703811	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.FZ6SipTBV36D
+1476667703813	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476667703818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64260
+1476667704810	Marionette	INFO	Listening on port 64260
+1476667706747	Marionette	INFO	startBrowser b85b801c-6721-4954-9dd9-1f928aebe0be
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: , line 0: JavaScriptError: Element reference not seen before: 7aa43c9b-5efb-4695-a5b6-f8ce24b7f88e
+1476668280626	geckodriver	INFO	Listening on 127.0.0.1:64520
+1476668282616	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.Ok5zLW1vNNDK
+1476668282617	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476668282621	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64527
+1476668283546	Marionette	INFO	Listening on port 64527
+1476668285451	Marionette	INFO	startBrowser aa40e503-f3cc-4200-83ee-350534a2fd36
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: , line 0: StaleElementReferenceError: The element reference is stale. Either the element is no longer attached to the DOM or the page has been refreshed.
+1476668410063	geckodriver	INFO	Listening on 127.0.0.1:64639
+1476668412051	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.JNJSSMKWdY6n
+1476668412053	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476668412058	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64645
+1476668413021	Marionette	INFO	Listening on port 64645
+1476668414990	Marionette	INFO	startBrowser 301f6b89-70fb-4262-b7e6-9412b964682e
+[Child 4172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+1476668714923	geckodriver	INFO	Listening on 127.0.0.1:64796
+1476668716924	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.2gVsJrYEHuC5
+1476668716925	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476668716930	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64802
+1476668717822	Marionette	INFO	Listening on port 64802
+1476668719654	Marionette	INFO	startBrowser b1fff43e-277c-44f5-a87d-badd847ca615
+[Child 2836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+1476669113758	geckodriver	INFO	Listening on 127.0.0.1:65141
+1476669115758	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.eiW0PI92DO4a
+1476669115759	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476669115764	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65147
+1476669116745	Marionette	INFO	Listening on port 65147
+1476669118640	Marionette	INFO	startBrowser b5f6f112-bff9-4eb7-83ab-fc1140329aed
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460112,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 30: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+[Child 3572] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0043,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][OnMaybeDequeueOne] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600BB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+erenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+[Child 5720] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5720] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+onette on localhost:50752
+1476673287805	Marionette	INFO	Listening on port 50752
+1476673290176	Marionette	INFO	startBrowser e86f6f56-b9be-4754-a639-932517b9a96b
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+[Child 9752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+onette on localhost:50906
+1476673412533	Marionette	INFO	Listening on port 50906
+1476673414644	Marionette	INFO	startBrowser 2c6911a2-2edd-4b22-846c-4e85f65b9be7
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+[Child 8256] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8256] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+onette on localhost:51071
+1476673590995	Marionette	INFO	Listening on port 51071
+1476673592864	Marionette	INFO	startBrowser b5075a17-3a7e-4f5e-8fd5-9a82a74f28f8
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+1476673745501	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6504] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+firefox.exe
+1476673646621	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51154
+1476673647521	Marionette	INFO	Listening on port 51154
+1476673649683	Marionette	INFO	startBrowser fbc1337b-d652-42e0-ab53-3784e3539a72
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+1476673744513	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 3476] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1476673751481	geckodriver	INFO	Listening on 127.0.0.1:51281
+1476673753478	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.lwdKpQ5odV0E
+1476673753480	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476673753484	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51288
+1476673754394	Marionette	INFO	Listening on port 51288
+1476673756413	Marionette	INFO	startBrowser 07602909-e868-4215-ab40-46ba1663cc3d
+[Child 8568] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+1476673864492	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.QUK0tVqDeH1s
+1476673829356	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476673829361	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51375
+1476673830260	Marionette	INFO	Listening on port 51375
+1476673832305	Marionette	INFO	startBrowser 470fb27d-09ba-470a-aa25-0ea0b2c095f6
+[Child 6416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6416] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+[Child 9992] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9992] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1476673877530	geckodriver	INFO	Listening on 127.0.0.1:51441
+1476673879529	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.b1msncvGn8gx
+1476673879530	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476673879535	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51447
+1476673880447	Marionette	INFO	Listening on port 51447
+1476673882582	Marionette	INFO	startBrowser 837e9cc0-f41c-4421-bf1a-87431ad04ea3
+[Child 4928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+[Child 9868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1476673976088	geckodriver	INFO	Listening on 127.0.0.1:51550
+1476673978101	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.KoVOkXiBQKXI
+1476673978102	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476673978106	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51556
+1476673979056	Marionette	INFO	Listening on port 51556
+1476673980817	Marionette	INFO	startBrowser 29632d02-ff5b-4f21-bd4b-ce5a292de1ac
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+[Child 8856] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8856] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+onette on localhost:51643
+1476674036994	Marionette	INFO	Listening on port 51643
+1476674038982	Marionette	INFO	startBrowser b1a26c10-62e9-42b9-be68-855b69098dad
+[Child 5384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+JavaScript error: https://pt.vm.fudan.edu.cn/, line 1: ReferenceError: capsLock is not defined
+1476674795019	geckodriver	INFO	Listening on 127.0.0.1:52161
+1476674797007	mozprofile::profile	INFO	Using profile path C:\Users\hasee\AppData\Local\Temp\rust_mozprofile.G2WBNbCWOu0P
+1476674797009	geckodriver::marionette	INFO	Starting browser D:\software\firefox\firefox.exe
+1476674797014	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52169
+1476674797963	Marionette	INFO	Listening on port 52169
+1476674799891	Marionette	INFO	startBrowser c66fb101-0f3a-48db-88c8-0b6c7c6654a9
+[Child 5824] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5824] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: http://static.hdslb.com/js/core-v5/picment.min.js, line 1: unreachable code after return statement
+JavaScript warning: http://static.hdslb.com/js/core-v5/picment.min.js, line 1: unreachable code after return statement
+[Child 9844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
